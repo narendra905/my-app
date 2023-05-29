@@ -40,12 +40,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
-		    <url>http://54.224.94.40:8081/nexus/sample-release2/</url>
+		    <url>http://54.224.94.40:8081/repository/sapmle1-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
-		    <url>http://54.224.94.40:8081/nexus/sample-snapshots2/</url>
+		    <url>http://54.224.94.40:8081/repository/sample1-release/</url>
 		</repository>
   	</distributionManagement>
 	
